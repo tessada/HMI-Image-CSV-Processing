@@ -1,0 +1,4 @@
+Acces,Chemin,Titre,Cout,Source,Numero,Largeur,Hauteur
+A,./Data/Image/Splash.png,Splash,40,Google image,1,842,595
+N,./Data/Image/Verre.png,Verre,180,Pinterest,2,495 ,742
+N,./Data/Image/Rayures.png,Rayures,80,Google image,3,500,749

@@ -1,0 +1,4 @@
+Acces,Chemin,Titre,Cout,Source,Numero,Largeur,Hauteur
+N,./Data/Image/Tigre.png,Tigre,130,Google image,1,577 ,800
+A,./Data/Image/Loup.jpeg,Loup,350,Google,2,624,850
+A,./Data/Image/Ville.jpeg,Ville,50,EEA,3,720,950

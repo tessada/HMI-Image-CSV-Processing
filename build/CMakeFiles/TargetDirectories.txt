@@ -1,0 +1,3 @@
+/Users/rubis/opencv/Projet/build/CMakeFiles/Projet.dir
+/Users/rubis/opencv/Projet/build/CMakeFiles/edit_cache.dir
+/Users/rubis/opencv/Projet/build/CMakeFiles/rebuild_cache.dir

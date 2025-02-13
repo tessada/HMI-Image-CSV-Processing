@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/rubis/opencv/Projet/build",
+  "command": "/usr/bin/clang++  -isystem /Users/rubis/opencv/install/include/opencv4 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17 -o CMakeFiles/Projet.dir/Source/main.cpp.o -c /Users/rubis/opencv/Projet/Source/main.cpp",
+  "file": "/Users/rubis/opencv/Projet/Source/main.cpp"
+},
+{
+  "directory": "/Users/rubis/opencv/Projet/build",
+  "command": "/usr/bin/clang++  -isystem /Users/rubis/opencv/install/include/opencv4 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17 -o CMakeFiles/Projet.dir/Source/traitement.cpp.o -c /Users/rubis/opencv/Projet/Source/traitement.cpp",
+  "file": "/Users/rubis/opencv/Projet/Source/traitement.cpp"
+},
+{
+  "directory": "/Users/rubis/opencv/Projet/build",
+  "command": "/usr/bin/clang++  -isystem /Users/rubis/opencv/install/include/opencv4 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -std=gnu++17 -o CMakeFiles/Projet.dir/Source/Bibliotheques.cpp.o -c /Users/rubis/opencv/Projet/Source/Bibliotheques.cpp",
+  "file": "/Users/rubis/opencv/Projet/Source/Bibliotheques.cpp"
+}
+]
